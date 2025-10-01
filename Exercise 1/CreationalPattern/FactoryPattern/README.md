@@ -45,3 +45,5 @@ This ensures **dynamic quiz generation**, **decoupled object creation**, and **t
 From the **FactoryPattern** folder:  
 ```bash
 javac src/factory/*.java -d out
+java -cp out factory.Main
+
