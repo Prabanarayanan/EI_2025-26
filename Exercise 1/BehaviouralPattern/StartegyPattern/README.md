@@ -40,3 +40,5 @@ This ensures **personalized learning**, **runtime flexibility**, and **tracking 
 From the **StrategyPattern** folder:  
 ```bash
 javac src/strategy/*.java -d out
+java -cp out strategy.Main
+
